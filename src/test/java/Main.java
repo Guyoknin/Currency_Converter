@@ -55,7 +55,7 @@ public class Main {
                 }
             } while (true);
 
-            // Screen 3 - Result screen
+            // Screen 3 + 4 - Result screen
             //CoinFactory coinFactory = new CoinFactory();
             double calculatedAmount = 0.0;
             if (coinChoice == 1) {
